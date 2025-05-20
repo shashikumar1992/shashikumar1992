@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shashikumar 👋</h1>
+<h1 align="center">Hi there, I'm Shashikumar S👋</h1>
 
 <p align="center">
   <b>Detail-oriented QA Tester | Automation & Manual Testing Enthusiast | 4.5+ Years of Experience</b>
